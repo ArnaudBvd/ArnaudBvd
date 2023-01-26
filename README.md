@@ -1,8 +1,7 @@
-![banniere_github](https://user-images.githubusercontent.com/123544419/214948294-fea14b8d-0f42-47b1-9d99-5aa1edc151f8.png)
+![banniere_github](https://user-images.githubusercontent.com/123544419/214950140-aea2b159-3fea-4fe1-b770-024d845b408e.png)
 
 
-
-# Bienvenue sur mon profil, je suis Arnaud Bravard
+# Bienvenue sur mon profil, je suis Arnaud
 
 Je vis à proximité de Lyon et je suis développeur web.
 
