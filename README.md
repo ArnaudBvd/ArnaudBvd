@@ -9,7 +9,9 @@ Je vis à proximité de Lyon et je suis développeur web.
 
 ## Pourquoi développeur web et pas astronaute ?
 La lune c'est beau, mais c'est loin ! Attiré par le développement web, je me suis donc lancé dans l'aventure avec
-l'espoir de conquérir non pas des planètes lointaines mais de beaux projets passionnants.
+l'espoir de conquérir non pas des planètes lointaines mais de comprendre le fonctionnement du monde de demain tout en
+ayant la possibilité de créer et d'innover.
+
 #
 #
 <h3 align="left">Languages and Tools:</h3>
