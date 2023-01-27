@@ -4,6 +4,7 @@
 # Bienvenue sur mon profil, je suis Arnaud
 
 Originaire des hauts plateaux d’Auvergne (pays de Vercingétorix, de Bibendum et de l’aligot) et installé sur la périphérie de Lyon depuis de nombreuses années,
+je me suis lancé dans le développement web après de moultes expériences diverses et variées.
 #
 #
 
