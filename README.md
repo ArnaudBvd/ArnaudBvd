@@ -3,7 +3,7 @@
 
 # Bienvenue sur mon profil, je suis Arnaud
 
-Je vis à proximité de Lyon et je suis développeur web.
+Originaire des hauts plateaux d’Auvergne (pays de Vercingétorix, de Bibendum et de l’aligot) et installé sur la périphérie de Lyon depuis de nombreuses années,
 #
 #
 
